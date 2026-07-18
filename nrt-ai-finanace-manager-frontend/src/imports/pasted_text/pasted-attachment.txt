@@ -1,0 +1,775 @@
+Design a complete, production-quality UI/UX for a modern SaaS application called NRT AI Finance Manager.
+
+This is NOT a generic finance dashboard.
+
+It is an AI Employee that acts as a virtual Finance Manager for SMEs.
+
+The final UI must look like it was designed by a senior product designer at Linear, Stripe, Notion, Ramp, Mercury, Arc, Vercel, or Apple.
+
+The interface must NEVER look AI-generated.
+
+The design must feel handcrafted, premium, polished, balanced, elegant, and highly usable.
+
+Every screen should look production-ready and suitable for immediate frontend development.
+
+Design Style
+
+Use a clean premium light theme.
+
+Modern SaaS aesthetics.
+
+Minimal but luxurious.
+
+Professional.
+
+Human-centered.
+
+Warm.
+
+Friendly.
+
+Confident.
+
+Trustworthy.
+
+Elegant.
+
+Soft.
+
+Do NOT make it futuristic.
+
+Do NOT use glowing effects.
+
+Do NOT use cyberpunk style.
+
+Do NOT use excessive gradients.
+
+Do NOT make it look like Dribbble fantasy UI.
+
+Do NOT make it look like AI generated.
+
+The UI should feel like a real SaaS product used daily by thousands of businesses.
+
+Inspiration
+
+Take inspiration from
+
+Stripe
+
+Ramp
+
+Mercury
+
+Linear
+
+Notion
+
+Slack
+
+Vercel
+
+Apple
+
+Figma
+
+Framer
+
+Do not copy them.
+
+Only use them as design inspiration.
+
+Color Palette
+
+Primary
+
+#1B5E20
+
+Secondary
+
+#2E7D32
+
+Light Green
+
+#E8F5E9
+
+Background
+
+#F8FAFC
+
+Cards
+
+#FFFFFF
+
+Border
+
+#E5E7EB
+
+Text Primary
+
+#111827
+
+Text Secondary
+
+#6B7280
+
+Success
+
+#16A34A
+
+Warning
+
+#F59E0B
+
+Danger
+
+#EF4444
+
+Info
+
+#3B82F6
+
+Purple Accent (AI only)
+
+#7C3AED
+
+Use green as the primary identity.
+
+Purple should only appear in AI-related elements.
+
+Typography
+
+Inter
+
+Plus Jakarta Sans
+
+Large headings
+
+Clean spacing
+
+Readable hierarchy
+
+Soft font weights
+
+Professional SaaS typography
+
+Border Radius
+
+12px
+
+16px
+
+Rounded but premium.
+
+Shadows
+
+Very soft shadows.
+
+No heavy shadows.
+
+No floating cards everywhere.
+
+Icons
+
+Lucide Icons
+
+Outlined
+
+Minimal
+
+Consistent size
+
+Layout
+
+Responsive
+
+Desktop
+
+Laptop
+
+Tablet
+
+Mobile
+
+Every page must have responsive layouts.
+
+No broken layouts.
+
+Sidebar
+
+Collapsible
+
+Professional navigation
+
+Logo
+
+Workspace Switcher
+
+Dashboard
+
+Invoices
+
+Quotations
+
+Expenses
+
+Income
+
+Payments
+
+Customers
+
+Suppliers
+
+Customer Ledger
+
+Supplier Ledger
+
+Cash Flow
+
+Profit & Loss
+
+Financial Reports
+
+Tax Management
+
+Payment Reminders
+
+AI Finance Assistant
+
+Notifications
+
+Settings
+
+User Profile
+
+Logout
+
+Top Navigation
+
+Global Search
+
+Notifications
+
+AI Status
+
+Quick Create
+
+Profile
+
+Company Switcher
+
+Theme Toggle
+
+Dashboard
+
+Design an enterprise dashboard.
+
+Include
+
+Revenue Cards
+
+Expense Cards
+
+Cash Balance
+
+Net Profit
+
+Outstanding Invoices
+
+Pending Payments
+
+Cash Flow Graph
+
+Revenue Graph
+
+Expense Breakdown
+
+Top Customers
+
+Recent Transactions
+
+Recent Activities
+
+AI Insights
+
+Upcoming Payments
+
+Upcoming Receivables
+
+Quick Actions
+
+Recent Notifications
+
+AI Finance Assistant
+
+This is the heart of the product.
+
+It must NOT look like ChatGPT.
+
+It must look like an intelligent Finance Employee working inside the application.
+
+Design a premium AI Assistant panel.
+
+Include
+
+Chat
+
+Suggested Actions
+
+Voice Button
+
+Recent AI Tasks
+
+Finance Insights
+
+Conversation History
+
+Smart Suggestions
+
+Quick Commands
+
+Context Awareness
+
+Example suggestions
+
+Create invoice
+
+Add expense
+
+Generate quotation
+
+Show cash flow
+
+Show profit
+
+Analyze expenses
+
+Find overdue invoices
+
+Generate daily summary
+
+Create reminder
+
+The AI should feel deeply integrated into the product.
+
+Not like an external chatbot.
+
+Invoices Module
+
+Invoice List
+
+Invoice Details
+
+Create Invoice
+
+Edit Invoice
+
+Delete
+
+Duplicate
+
+Print
+
+Download PDF
+
+Email
+
+Filters
+
+Search
+
+Pagination
+
+Status
+
+Paid
+
+Pending
+
+Overdue
+
+Draft
+
+Quotations
+
+List
+
+Create
+
+Edit
+
+Approve
+
+Reject
+
+Convert to Invoice
+
+Expenses
+
+Expense List
+
+Expense Categories
+
+Upload Receipt
+
+Create Expense
+
+Edit
+
+Delete
+
+Approval Status
+
+Income
+
+Income Sources
+
+Income List
+
+Create
+
+Edit
+
+Delete
+
+Reports
+
+Payments
+
+Incoming
+
+Outgoing
+
+Payment History
+
+Payment Methods
+
+Transaction Details
+
+Customers
+
+Customer List
+
+Customer Details
+
+Customer Profile
+
+Payment History
+
+Outstanding Balance
+
+Ledger
+
+Invoices
+
+Quotations
+
+Suppliers
+
+Supplier List
+
+Supplier Profile
+
+Purchase History
+
+Outstanding Balance
+
+Ledger
+
+Customer Ledger
+
+Transaction Timeline
+
+Balance
+
+Invoices
+
+Payments
+
+Statement
+
+Export
+
+Supplier Ledger
+
+Transaction Timeline
+
+Payments
+
+Bills
+
+Outstanding
+
+Statement
+
+Cash Flow
+
+Interactive Charts
+
+Monthly
+
+Weekly
+
+Daily
+
+Forecast
+
+Profit & Loss
+
+Charts
+
+Summary
+
+Income
+
+Expenses
+
+Margins
+
+Comparison
+
+Export
+
+Financial Reports
+
+Sales Report
+
+Expense Report
+
+Profit Report
+
+Cash Flow Report
+
+Ledger Report
+
+Tax Report
+
+Export PDF
+
+Export Excel
+
+Print
+
+Tax Management
+
+Tax Rules
+
+Tax Categories
+
+Tax Reports
+
+Tax Settings
+
+Payment Reminders
+
+Reminder List
+
+Schedules
+
+Upcoming
+
+History
+
+Templates
+
+Notifications
+
+Real-time
+
+Unread
+
+Read
+
+Archive
+
+Priority
+
+Settings
+
+Company
+
+Profile
+
+Security
+
+Users
+
+Roles
+
+Permissions
+
+Integrations
+
+Notifications
+
+Billing
+
+Appearance
+
+Language
+
+Authentication
+
+Login
+
+Register
+
+Forgot Password
+
+OTP Verification
+
+Reset Password
+
+Two Factor Authentication
+
+Welcome Screen
+
+Empty States
+
+Design beautiful empty states.
+
+No boring placeholders.
+
+Loading States
+
+Skeleton Loaders
+
+Progress Indicators
+
+Loading Animations
+
+Error States
+
+Validation
+
+404
+
+500
+
+Permission Errors
+
+Offline States
+
+Modals
+
+Create
+
+Edit
+
+Delete
+
+Confirmation
+
+Preview
+
+Success
+
+Warning
+
+Error
+
+Tables
+
+Professional enterprise tables.
+
+Sorting
+
+Filtering
+
+Searching
+
+Bulk Actions
+
+Column Management
+
+Pagination
+
+Sticky Headers
+
+Forms
+
+Every form must include
+
+Validation
+
+Helpful labels
+
+Descriptions
+
+Tooltips
+
+Inline Errors
+
+Disabled States
+
+Loading States
+
+Success States
+
+Buttons
+
+Every button must look clickable.
+
+Primary
+
+Secondary
+
+Ghost
+
+Danger
+
+Icon Buttons
+
+Floating Actions
+
+Dropdown Buttons
+
+Split Buttons
+
+Every button should represent a real application workflow.
+
+No dummy buttons.
+
+UX Requirements
+
+Every page must have a clear user flow.
+
+Every action should feel logical.
+
+Every screen should connect naturally.
+
+No random layouts.
+
+No inconsistent spacing.
+
+Use proper visual hierarchy.
+
+Use generous whitespace.
+
+Make everything feel calm and premium.
+
+AI Integration Feel
+
+The AI must feel like a real Finance Manager working alongside the user.
+
+It should appear proactive.
+
+It should recommend actions.
+
+It should analyze data.
+
+It should assist workflows.
+
+It should never feel like a simple chatbot.
+
+Final Requirement
+
+Design every screen, every component, every modal, every table, every form, every state, every navigation flow, and every interaction as if this product is going live tomorrow.
+
+Do not generate placeholder-only layouts.
+
+Do not leave any page incomplete.
+
+Every page should be fully designed with realistic business data, production-ready UX, and developer-friendly consistency.
+
+The final result must look like it was designed by an experienced senior product designer—not by AI.

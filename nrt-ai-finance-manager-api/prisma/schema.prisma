@@ -1,0 +1,134 @@
+datasource db {
+  provider = "postgresql"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Invoice {
+  id       String @id
+  customer String
+  amount   Float
+  date     String
+  due      String
+  status   String
+}
+
+model Quotation {
+  id         String @id
+  customer   String
+  amount     Float
+  date       String
+  validUntil String
+  status     String
+}
+
+model Expense {
+  id          String @id
+  category    String
+  amount      Float
+  date        String
+  vendor      String
+  description String
+  status      String
+}
+
+model Income {
+  id          String @id
+  source      String
+  amount      Float
+  date        String
+  description String
+  status      String
+}
+
+model Payment {
+  id        String @id
+  payee     String
+  amount    Float
+  date      String
+  method    String
+  reference String
+  status    String
+}
+
+model Customer {
+  id        String @id
+  name      String
+  email     String
+  phone     String
+  address   String
+  company   String
+  status    String
+}
+
+model Supplier {
+  id        String @id
+  name      String
+  email     String
+  phone     String
+  address   String
+  company   String
+  status    String
+}
+
+model CustomerLedger {
+  id          String @id
+  customerId  String
+  date        String
+  description String
+  type        String
+  debit       Float
+  credit      Float
+  balance     Float
+}
+
+model SupplierLedger {
+  id          String @id
+  supplierId  String
+  date        String
+  description String
+  type        String
+  debit       Float
+  credit      Float
+  balance     Float
+}
+
+model TaxRate {
+  id          String @id
+  name        String
+  rate        Float
+  description String
+  isActive    Boolean @default(true)
+}
+
+model PaymentReminder {
+  id         String @id
+  invoiceId  String
+  customerId String
+  date       String
+  message    String
+  status     String @default("pending")
+}
+
+model AiChat {
+  id        String @id
+  prompt    String
+  response  String
+  timestamp DateTime @default(now())
+}
+
+model Notification {
+  id        String @id
+  title     String
+  message   String
+  type      String
+  isRead    Boolean @default(false)
+  createdAt DateTime @default(now())
+}
+
+model Setting {
+  key   String @id
+  value String
+}
